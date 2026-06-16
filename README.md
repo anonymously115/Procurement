@@ -1,0 +1,4 @@
+NuGetパッケージの管理
+Oracle.EntityFrameworkCore
+Oracle.ManagedDataAccess.Core
+インストールする。
