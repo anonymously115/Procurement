@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atsuo\\source\\repos\\Procurement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615062659_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Procurement\\Migrations\\20260615062659_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Controllers\\EmployeeBelongingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Procurement\\Controllers\\EmployeeBelongingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\models\\employeebelonging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\models\\employeebelonging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615023350_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Procurement\\Migrations\\20260615023350_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615023042_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Procurement\\Migrations\\20260615023042_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260612152121_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Procurement\\Migrations\\20260612152121_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|c:\\users\\atsuo\\source\\repos\\procurement\\procurement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{292AFE5C-6C52-9EBE-7755-8230842F0034}|Procurement\\Procurement.csproj|solutionrelative:procurement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Procurement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Procurement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-15T07:11:47.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Procurement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Procurement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB0AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-15T07:11:45.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260615062659_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615062659_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Procurement\\Migrations\\20260615062659_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615062659_InitialCreate.cs",
+              "RelativeToolTip": "Procurement\\Migrations\\20260615062659_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:26:59.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeBelongingController.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Controllers\\EmployeeBelongingController.cs",
+              "RelativeDocumentMoniker": "Procurement\\Controllers\\EmployeeBelongingController.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Controllers\\EmployeeBelongingController.cs",
+              "RelativeToolTip": "Procurement\\Controllers\\EmployeeBelongingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:26:32.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeBelonging.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Models\\EmployeeBelonging.cs",
+              "RelativeDocumentMoniker": "Procurement\\Models\\EmployeeBelonging.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Models\\EmployeeBelonging.cs",
+              "RelativeToolTip": "Procurement\\Models\\EmployeeBelonging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T12:21:49.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260615023350_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615023350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Procurement\\Migrations\\20260615023350_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615023350_InitialCreate.cs",
+              "RelativeToolTip": "Procurement\\Migrations\\20260615023350_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T02:33:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260615023042_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615023042_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Procurement\\Migrations\\20260615023042_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260615023042_InitialCreate2.cs",
+              "RelativeToolTip": "Procurement\\Migrations\\20260615023042_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T02:30:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\appsettings.json",
+              "RelativeDocumentMoniker": "Procurement\\appsettings.json",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\appsettings.json",
+              "RelativeToolTip": "Procurement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T16:02:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260612152121_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260612152121_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Procurement\\Migrations\\20260612152121_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Migrations\\20260612152121_InitialCreate.cs",
+              "RelativeToolTip": "Procurement\\Migrations\\20260612152121_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:21:21.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Program.cs",
+              "RelativeDocumentMoniker": "Procurement\\Program.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Program.cs",
+              "RelativeToolTip": "Procurement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:11:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Procurement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Procurement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T12:58:39.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Procurement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\atsuo\\source\\repos\\Procurement\\Procurement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Procurement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T12:30:50.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

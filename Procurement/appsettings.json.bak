@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "ProcurementContext": "Server=(localdb)\\mssqllocaldb;Database=ProcurementContext;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
