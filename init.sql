@@ -11,6 +11,7 @@ sqlplus procurement/procurement@FREEPDB1
 
 -- makemigrations
 Add-Migration InitialCreate
+--To undo this action, use Remove-Migration.
 
 -- migrate
 Update-Database
